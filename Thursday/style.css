@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+button {
+    height: 2.4rem;
+    width: 7%;
+}
+
+input {
+    width: 25%;
+    height: 2rem;
+}
+
+#lists {
+    display: grid;
+    grid-template-columns: 1fr 1fr;    
+}
